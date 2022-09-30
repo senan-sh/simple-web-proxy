@@ -1,0 +1,1 @@
+# Simple proxy for rejecting CORS errors
